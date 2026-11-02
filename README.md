@@ -28,7 +28,7 @@ Three-page interactive dashboard built in Tableau Public:
 | **Risk Trends** | Default rate patterns across demographics and time | Default Rate by Gender × Contract Type · Age Group Risk Profile · Default Rate by Bureau Credit History · Quarterly Default Trends |
 | **Model Performance** | ML evaluation metrics | ROC Curve · Precision-Recall Curve · Calibration Chart · Feature Importance · Confusion Matrix |
 
-> 🔗 **[View Dashboard on Tableau Public]([#https://public.tableau.com/views/DAproject_17903669641940/RiskTrends?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link])**
+> 🔗 **[View Dashboard on Tableau Public](https://public.tableau.com/views/DAproject_17903669641940/RiskTrends?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**
 
 ---
 
